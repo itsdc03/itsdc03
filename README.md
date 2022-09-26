@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @itsdc03
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning in Python
-- 💞️ I’m looking to collaborate on ML projects
+- 👋 Hi, I’m Dhruv Chauhan
+- 👀 I’m interested in machine learning, data analytics, and algorithms
 - 📫 How to reach me itsdc03@gmail.com
 
 <!---
